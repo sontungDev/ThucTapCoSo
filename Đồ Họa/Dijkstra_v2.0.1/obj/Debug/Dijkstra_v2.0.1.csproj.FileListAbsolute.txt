@@ -1,0 +1,11 @@
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\obj\Debug\Dijkstra_v2._0._1.DoThi.resources
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\obj\Debug\Dijkstra_v2._0._1.frmMain.resources
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\obj\Debug\Dijkstra_v2._0._1.Properties.Resources.resources
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\obj\Debug\Dijkstra_v2.0.1.csproj.GenerateResource.cache
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\obj\Debug\Dijkstra_v2.0.1.csproj.CoreCompileInputs.cache
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\bin\Debug\Dijkstra_v2.0.1.exe.config
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\bin\Debug\Dijkstra_v2.0.1.exe
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\bin\Debug\Dijkstra_v2.0.1.pdb
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\obj\Debug\Dijkstra_v2.0.1.exe
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\obj\Debug\Dijkstra_v2.0.1.pdb
+C:\Users\sontu\Desktop\Dijkstra_v2.0.1\Dijkstra_v2.0.1\obj\Debug\Dijkstra_v2.0.1.csprojAssemblyReference.cache
